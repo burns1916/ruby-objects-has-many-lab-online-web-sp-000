@@ -19,7 +19,7 @@ class Song
   end
 
   def artist
-    self.artist
+    @artist
   end
 
   def artist_name
